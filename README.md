@@ -40,7 +40,6 @@ Cover your nose and mouth with your bent elbow or a tissue when you cough or sne
 Stay home if you feel unwell.
 If you have a fever, cough and difficulty breathing, seek medical attention.
 Calling in advance allows your healthcare provider to quickly direct you to the right health facility. This protects you, and prevents the spread of viruses and other infections.
-Masks
 Masks can help prevent the spread of the virus from the person wearing the mask to others. Masks alone do not protect against COVID-19, and should be combined with physical distancing and hand hygiene. Follow the advice provided by your local health authority.
 
 ###  Prevention
@@ -55,7 +54,9 @@ If you have mild symptoms and are otherwise healthy, self-isolate and contact yo
 Seek medical care if you have a fever, a cough, and difficulty breathing. Call in advance.
 
 
-### This project is the extended part of data analysis which I had done during my internship period from GetBoarded Technologies. Contribution is uploaded on COVID-19 First Response project of GetBoarded Technologies
+### This project is the extended part of data analysis which I had done during my internship period from GetBoarded Technologies. Contribution is uploaded on COVID-19 First Response project of GetBoarded Technologies.
+
+### External rendering will be available on nbviewer option available on notebook at the top.
 
 The data is taken from : https://datahub.io/core/covid-19/r/0.html
 
