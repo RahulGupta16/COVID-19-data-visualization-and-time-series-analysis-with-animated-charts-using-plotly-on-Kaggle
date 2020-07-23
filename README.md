@@ -13,6 +13,10 @@ You can be infected by breathing in the virus if you are within close proximity 
 
 COVID-19 affects different people in different ways. Most infected people will develop mild to moderate illness and recover without hospitalization.
 
+
+![GettyImages-1209679043](https://user-images.githubusercontent.com/56091634/88263248-54c61200-cce7-11ea-9f9e-2d043604e4c5.jpg)
+
+
 ### Most common symptoms:
 
 fever
